@@ -1,0 +1,104 @@
+#Border {
+  float: right;
+  background-color: black;
+
+}
+
+#line1 {
+  top: 100px;
+  position: relative;
+  width: 1250px;
+  height: 0px;
+
+  mix-blend-mode: normal;
+  border: 3px solid #000000;
+  transform: rotate(-0.07deg);
+}
+
+#myrights {
+  position: absolute;
+  width: 410px;
+  height: 103px;
+  top:80px;
+  left:30px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+
+  color: #000000;
+}
+
+#forum {
+  position: absolute;
+  width: 266px;
+  height: 103px;
+  top:63px;
+  left:390px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+
+  color: #000000;
+}
+
+#line2 {
+  top: 215px;
+  position: absolute;
+  width: 1250px;
+  height: 0px;
+
+  border: 1px solid #000000;
+}
+
+/* Source : Los Angeles Daily News */
+
+#source1 {
+  position: absolute;
+  width: 1350px;
+  height: 107px;
+
+  font-family: Carrois Gothic SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 90px;
+  line-height: 107px;
+
+  color: #E5E5E5;
+
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+
+#resources {
+  position: absolute;
+  width: 389px;
+  height: 103px;
+  top: 43px;
+  left: 680px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+
+  color: #000000;
+}
+
+#mission{
+  position: absolute;
+  width: 314px;
+  height: 98px;
+  top:10px;
+  left:1050px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+
+  color: #000000;
+}
