@@ -6,7 +6,7 @@
 #Line1 {
   top: 100px;
   position: relative;
-  width: 1564px;
+  width: 1250px;
   height: 0px;
 
   mix-blend-mode: normal;
@@ -33,9 +33,118 @@
 #Line2 {
   top: 215px;
   position: absolute;
-  width: 1564px;
+  width: 1250px;
   height: 0px;
 
   border: 1px solid #000000;
 
+}
+
+#Author {
+  top: 230px;
+  position: absolute;
+  width: 242px;
+  height: 82px;
+
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+#Date {
+  top: 250px;
+  position: absolute;
+  width: 242px;
+  height: 82px;
+
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+#WhatToDo {
+  top: 275px;
+  position: absolute;
+  width: 33%;
+
+  font-family: Times New Roman;
+  font-size: 25px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+#StoppedText {
+  top: 330px;
+  position: absolute;
+  width: 33%;
+
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: normal;
+
+  color: #000000;
+}
+
+#WhatToDo2 {
+  top: 775px;
+  position: absolute;
+  width: 33%;
+
+  font-family: Times New Roman;
+  font-size: 25px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+#HomeText {
+  top: 830px;
+  position: absolute;
+  width: 33%;
+
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: normal;
+
+  color: #000000;
+}
+
+#WhatToDo3 {
+  top: 275px;
+  position: relative;
+  width: 33%;
+  top: 50%;
+  left: 50%;
+  margin-top: -120px;
+  margin-left: -200px;
+
+  font-family: Times New Roman;
+  font-size: 25px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+#DrivingText {
+  top: 600px;
+  position: absolute;
+  width: 33%;
+  top: 50%;
+  left: 50%;
+  margin-top: 0px;
+  margin-left: -200px;
+
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: normal;
+
+  color: #000000;
 }
