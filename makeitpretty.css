@@ -1,0 +1,263 @@
+#without {
+  width: 270px;
+  height: 55px;
+  padding-top: 33px;
+
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+
+  color: #000000;
+
+  border: 0.5px solid #000000;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#pic1 {
+  position:relative;
+  bottom:0px;
+  width: 610px;
+  height: 320px;
+  float: left;
+
+  background: url(honduran-girl-border-gty-rc-180619_hpEmbed_3x2_992.jpg);
+}
+
+#pic2 {
+  position:relative;
+  top:20px;
+  right:50px;
+  float: right;
+  width: 600px;
+  height: 590px;
+}
+
+#source {
+  position: relative;
+  width: 238px;
+  height: 21px;
+
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  text-align: center;
+
+  color: #828282;
+}
+
+#source2 {
+  float: right;
+  width: 194px;
+  height: 21px;
+
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  text-align: center;
+
+  color: #828282;
+}
+
+#line {
+  position:relative;
+  top:915px;
+  width: 601px;
+  height: 0px;
+  border: 3px solid #000000;
+  transform: rotate(-0.13deg);
+}
+
+#KYR {
+  width: 452px;
+height: 46px;
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+#intro {
+  width: 449px;
+height: 345px;
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+
+#thin {
+  width: 405px;
+height: 0px;
+
+border: 1px solid #000000;
+}
+
+#two {
+  width: 600px;
+  float: right;
+}
+
+#borders {
+  background-color: black;
+  float: right;
+  width: 287px;
+  height: 88px;
+
+  font-family: Canterbury;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 87px;
+
+  color: #FFFFFF;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#thick {
+  width: 1250px;
+  height: 0px;
+
+  mix-blend-mode: normal;
+  border: 3px solid #000000;
+  transform: rotate(-0.07deg);
+}
+
+#rights{
+  width: 410px;
+  height: 103px;
+
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+
+color: #000000;
+}
+
+#forum {
+  width: 300px;
+  height: 100px;
+
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+
+  color: #000000;
+}
+
+#resources {
+  width: 300px;
+  height: 100px;
+
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+
+  color: #000000;
+}
+
+#mission {
+  width: 300px;
+  height: 100px;
+
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+
+  color: #000000;
+}
+
+#line2 {
+  width: 1564px;
+  height: 0px;
+  border: 1px solid #000000;
+}
+
+#flipbook {
+    width: 10000;
+    height: 1000;
+    autoCenter: true;
+
+}
+
+#page1 {
+  width: 1000px;
+  height: 1000px;
+}
+
+#page2 {
+  width: 1000px;
+  height: 1000px;
+}
+
+#page3 {
+  width: 1000px;
+  height: 1000px;
+}
+
+#immigrantrights {
+  width: 1000px;
+  height: 500px;
+  top:50px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 66px;
+  line-height: 166px;
+
+  text-align: center;
+
+  color: #000000;
+}
+
+#straight {
+  width: 1564px;
+  height: 0px;
+  border: 1px solid #000000;
+}
+
+#short {
+  width: 426px;
+  height: 0px;
+
+  border: 1px solid #000000;
+  transform: rotate(-0.27deg);
+}
+
+#ICE {
+  width: 458px;
+  height: 22px;
+
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24.25px;
+  line-height: 28px;
+
+  color: #000000;
+}
