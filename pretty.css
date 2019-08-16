@@ -71,9 +71,11 @@
   position: absolute;
   width: 33%;
 
+
   font-family: Times New Roman;
   font-size: 25px;
   line-height: 28px;
+  text-decoration: underline;
 
   color: #000000;
 }
@@ -99,6 +101,7 @@
   font-family: Times New Roman;
   font-size: 25px;
   line-height: 28px;
+  text-decoration: underline;
 
   color: #000000;
 }
@@ -117,23 +120,22 @@
 }
 
 #WhatToDo3 {
-  top: 275px;
+  top: 900px;
   position: relative;
   width: 33%;
-  top: 50%;
-  left: 50%;
-  margin-top: -120px;
-  margin-left: -200px;
+  margin-top: -1020px;
+  margin-left: 422px;
 
   font-family: Times New Roman;
   font-size: 25px;
   line-height: 28px;
+  text-decoration: underline;
 
   color: #000000;
 }
 
 #DrivingText {
-  top: 600px;
+  top: 550px;
   position: absolute;
   width: 33%;
   top: 50%;
@@ -147,4 +149,120 @@
   font-weight: normal;
 
   color: #000000;
+}
+
+#WhatToDo4 {
+  top: 300px;
+  position: absolute;
+  width: 33%;
+  top: 50%;
+  left: 50%;
+  margin-top: 370px;
+  margin-left: -200px;
+  text-decoration: underline;
+
+  font-family: Times New Roman;
+  font-size: 25px;
+  line-height: 28px;
+  font-weight: bold;
+
+  color: #000000;
+}
+
+#DetainedText {
+  top: 600px;
+  position: absolute;
+  width: 33%;
+  top: 50%;
+  left: 50%;
+  margin-top: 395px;
+  margin-left: -200px;
+
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: normal;
+
+  color: #000000;
+}
+
+#Forthakids {
+  top: 300px;
+  position: absolute;
+  width: 66%;
+  top: 50%;
+  left: 50%;
+  margin-top: 905px;
+  margin-left: -200px;
+
+  font-family: Times New Roman;
+  font-size: 25px;
+  line-height: 28px;
+  font-weight: bold;
+  text-decoration: underline;
+
+  color: #000000;
+}
+
+#ForthakidsText {
+  top: 300px;
+  position: absolute;
+  width: 66%;
+  top: 50%;
+  left: 50%;
+  margin-top: 950px;
+  margin-left: -200px;
+
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+#FinalCountdown {
+  /* float: left; */
+  top: -70px;
+  position: relative;
+  width: 33%;
+  margin-top: 205px;
+  margin-left: 850px;
+  float: left;
+  text-decoration: underline;
+
+
+  font-family: Times New Roman;
+  font-size: 36px;
+  line-height: 28px;
+  font-weight: bold;
+
+  color: #000000;
+}
+
+#FinalCountdownText {
+  top: 0px;
+  position: relative;
+  width: 33%;
+  float: left;
+  margin-top: -60px;
+  margin-left: 200px;
+  left: 52%;
+
+
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: normal;
+
+  color: #000000;
+}
+
+#BackButton {
+  position: relative;
+  left: -48%;
+  float: left;
+  top: -270px;
+
+  font-family: Times New Roman;
+  font-size: 18px;
 }
