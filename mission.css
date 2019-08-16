@@ -1,0 +1,179 @@
+#Borders {
+  float: right;
+  background-color: black;
+}
+
+#Line1 {
+  top: 100px;
+  position: relative;
+  width: 1250px;
+  height: 0px;
+  mix-blend-mode: normal;
+  border: 3px solid #000000;
+  transform: rotate(-0.07deg);
+}
+
+#title {
+  top: -20px;
+  position: relative;
+  width: 1202px;
+  height: 166px;
+  font-family: Times New Roman;
+  font-size: 100px;
+  line-height: 166px;
+  text-align: center;
+  color: #000000;
+}
+
+#Line2 {
+  top: 215px;
+  position: absolute;
+  width: 1250px;
+  height: 0px;
+  border: 1px solid #000000;
+}
+
+#Jade {
+  float:left;
+  position: relative;
+  top: -100px;
+  width: 28%;
+}
+
+#Villegas {
+  position: relative;
+  top: 25px;
+  text-decoration: underline;
+  width: 28%;
+  left: 125px;
+  font-size: 25px;
+}
+
+#whyjade {
+  position: relative;
+  top: 15px;
+  text-align: center;
+  font-size: 20px;
+}
+
+#Shivani {
+  width: 28%;
+}
+
+#Ramdeo {
+  position: relative;
+  left: 520px;
+  top: -715px;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+#whyshivani {
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  left: 400px;
+  top: -725px;
+}
+
+#Majea {
+  width:28%;
+}
+
+#Bailey {
+  position: relative;
+  top: -1220px;
+  font-size: 25px;
+  text-decoration: underline;
+  left: 120px;
+}
+
+#majeapic {
+  height: 350px;
+  width: 260px;
+  position: relative;
+  top: -1250px;
+  right: 40px;
+}
+
+#whymajea {
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  top: -1230px;
+}
+
+#whyitzel {
+  position: relative;
+  left: 830px;
+  top: -1500px;
+  width: 28%;
+  text-align: center;
+  font-size: 20px;
+}
+
+#whykayla {
+  position: relative;
+  text-align: center;
+  font-size: 20px;
+  left: 470px;
+  top: -2035px;
+}
+
+#Medina {
+  position: relative;
+  left: 980px;
+  top: -1495px;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+#itzelpic {
+  height: 300px;
+  width: 250px;
+  position: relative;
+  top: -1520px;
+  left: 830px;
+}
+
+#Kayla {
+  width:28%;
+}
+
+#Mission {
+  float:right;
+  top:-680px;
+  position: relative;
+  width:28%;
+
+}
+#jadepic {
+  width:225px;
+  height:300px;
+  position: relative;
+  right: 25px;
+}
+
+#Shivanipic{
+  width:175px;
+  height:300px;
+  position: relative;
+  top: -740px;
+  left: 390px;
+}
+
+#kaylapic{
+  width:260px;
+  height:350px;
+  position: relative;
+  top: -2055px;
+  left: 450px;
+}
+
+#Michelle {
+  position: relative;
+  left: 620px;
+  top: -2020px;
+  font-size: 25px;
+  text-decoration: underline;
+}
