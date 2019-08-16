@@ -20,12 +20,11 @@
 }
 
 #title {
-  left:200px;
   top: -20px;
-  position: absolute;
-  width: 100%;
+  position: relative;
+  width: 70%;
   height: 166px;
-  left: 250px;
+  margin-left: 300px;
   text-align: center;
 
   font-family: Times New Roman;
