@@ -89,7 +89,19 @@
   width: 590px;
   height: 345px;
   position: relative;
-  top: -25px;
+  top: -30px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+
+#intro2 {
+  width: 100%;
+  position: relative;
+  top: -235px;
   font-family: Times New Roman;
   font-style: normal;
   font-weight: normal;
@@ -162,4 +174,12 @@
 #founders {
   position: relative;
   top: -15px;
+}
+
+#next {
+position: relative;
+left: 0%;
+top: -1030px;
+font-family: Times New Roman;
+font-size: 18px;
 }
