@@ -1,0 +1,97 @@
+#Border {
+  float: right;
+  background-color: black;
+}
+
+#Line1 {
+  top: 100px;
+  position: relative;
+  width: 1250px;
+  height: 0px;
+
+  mix-blend-mode: normal;
+  border: 3px solid #000000;
+  transform: rotate(-0.07deg);
+}
+
+#Title {
+  top: -20px;
+  position: relative;
+  width: 1202px;
+  height: 166px;
+
+  font-family: Times New Roman;
+  font-size: 100px;
+  line-height: 166px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+#Line2 {
+  top: 215px;
+  position: absolute;
+  width: 1250px;
+  height: 0px;
+
+  border: 1px solid #000000;
+
+}
+
+#Author {
+  top: 230px;
+  position: absolute;
+  width: 242px;
+  height: 82px;
+
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+#Date {
+  top: 250px;
+  position: absolute;
+  width: 242px;
+  height: 82px;
+
+  font-family: Times New Roman;
+  font-size: 20px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+#Info {
+  font-family: Times New Roman;
+  font-size: 20px;
+  position: absolute;
+  margin-top: -50px;
+}
+#Term {
+  margin-top: 195px;
+  font-family: Times New Roman;
+  font-size: 15px;
+  position: absolute;
+
+  text-decoration: underline;
+}
+
+#Text {
+  margin-top: 210px;
+  font-family: Times New Roman;
+  font-size: 15px;
+  position: absolute;
+}
+
+#button {
+  font-family: Times New Roman;
+  font-size: 40px;
+  margin-left: 400px;
+  top: 425px;
+  position: absolute;
+}
