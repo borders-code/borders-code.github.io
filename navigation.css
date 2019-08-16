@@ -1,0 +1,203 @@
+#Border {
+  float: right;
+  background-color: black;
+
+}
+
+#line1 {
+  top: 100px;
+  position: relative;
+  width: 1250px;
+  height: 0px;
+
+  mix-blend-mode: normal;
+  border: 3px solid #000000;
+  transform: rotate(-0.07deg);
+}
+
+#myrights {
+  position: absolute;
+  width: 410px;
+  height: 103px;
+  top:110px;
+  left:30px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+
+  color: #000000;
+}
+
+#forum {
+  position: absolute;
+  width: 266px;
+  height: 103px;
+  top:110px;
+  left:390px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+
+  color: #000000;
+}
+
+#line2 {
+  top: 215px;
+  position: absolute;
+  width: 1250px;
+  height: 0px;
+
+  border: 1px solid #000000;
+}
+
+/* Source : Los Angeles Daily News */
+
+#source1 {
+  position: absolute;
+  top:1165px;
+  font-family:Times New Roman;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  color: #828282;
+}
+
+#resources {
+  position: absolute;
+  width: 389px;
+  height: 103px;
+  top: 110px;
+  left: 680px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+  color: #000000;
+}
+
+#mission{
+  position: absolute;
+  width: 314px;
+  height: 98px;
+  top:110px;
+  left:1050px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 103px;
+  color: #000000;
+}
+
+#pol {
+  position: absolute;
+  margin-top: 180px;
+  width: 388px;
+  height: 82px;
+
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 18px;
+
+  color: #000000;
+}
+
+
+
+#dreamers {
+  position:absolute;
+  top:1180px;
+  left:0px;
+  font-family: Times New Roman;
+  font-size: 30px;
+  font-weight:bold;
+  color:rgb(142, 142, 142)
+}
+
+#dreamerspic {
+  margin-left: 0px;
+  margin-top: 100px;
+  display: block;
+  float: left;
+  width:33%;
+  height:300px;
+}
+
+#separate {
+  position: absolute;
+  top:630px;
+  font-family: Times New Roman;
+  font-size: 30px;
+  font-weight:bold;
+  color:rgb(142, 142, 142);
+}
+
+#separatepic {
+  margin-top: 320px;
+  display: block;
+  align-items: center;
+  width: 33%;
+}
+
+#child {
+  position:absolute;
+  top:820px;
+  right:10px;
+  font-family: Times New Roman;
+  font-size: 30px;
+  font-weight:bold;
+  color:rgb(142, 142, 142)
+}
+
+#childpic {
+  margin-top:-250px;
+  display:block;
+  float:right;
+  width:33%;
+
+}
+
+#separatep {
+  font-family: Times New Roman;
+  font-size: 20px;
+  width:33%;
+}
+
+#childp {
+  position:absolute;
+  top:860px;
+  right:-40px;
+  font-family: Times New Roman;
+  font-size: 20px;
+  width:33%;
+}
+
+#dreamersp {
+  position:absolute;
+  top:1200px;
+  font-family: Times New Roman;
+  font-size: 20px;
+  width:33%;
+}
+#source2 {
+  position:absolute;
+  top:610px;
+  font-size: 10px;
+  color: #828282;
+}
+
+#source3 {
+  position:absolute;
+  top:800px;
+  left:1200px;
+  font-size: 10px;
+  color:#828282
+
+}
